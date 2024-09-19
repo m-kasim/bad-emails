@@ -1,4 +1,4 @@
-# Bad Email Domains and Addresses List
+# Bad email domains & addresses list
 
 This repository contains a manually curated list of **bad email domains** and **email addresses** that have been identified in association with **spam**, **phishing**, **fraud**, and other malicious activities. These entries have been gathered from various sources, including abuse reports, spam traps, and other cybersecurity resources.
 
